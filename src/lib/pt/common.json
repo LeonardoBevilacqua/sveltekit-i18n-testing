@@ -1,0 +1,5 @@
+{
+    "helloWorld": "Olá Mundo",
+    "welcome": "Bem vindo ao SvelteKit",
+    "text": "Visite <a href=\"{{link}}\">kit.svelte.dev</a> para ler a documentação"
+}
