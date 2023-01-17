@@ -1,4 +1,8 @@
-# create-svelte
+# sveltekit-i18n testing
+
+This repo is dedicated to test i18n in sveltekit 1.0.
+
+## create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
