@@ -1,0 +1,1 @@
+const e="Hello World",o="Welcome to SvelteKit",t='Visit <a href="{{link}}">kit.svelte.dev</a> to read the documentation',l={helloWorld:e,welcome:o,text:t};export{l as default,e as helloWorld,t as text,o as welcome};
