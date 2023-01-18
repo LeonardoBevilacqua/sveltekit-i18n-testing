@@ -1,1 +1,0 @@
-import{l as n,a as l}from"./translation-85d045f6.js";const r=!0,s=async({url:t})=>{const{pathname:a}=t,o=`${a.match(/\w+?(?=\/|$)/)||""}`,e=n.get()||o;return await l(e,a),{}},p=Object.freeze(Object.defineProperty({__proto__:null,prerender:r,load:s},Symbol.toStringTag,{value:"Module"}));export{p as _,s as l,r as p};
