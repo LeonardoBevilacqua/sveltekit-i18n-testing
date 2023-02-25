@@ -1,0 +1,1 @@
+import{l as t}from"./translation-416cf182.js";const n=!0,r=async({data:a,url:e})=>{const{pathname:o}=e;await t(a.language,o)},s=Object.freeze(Object.defineProperty({__proto__:null,prerender:n,load:r},Symbol.toStringTag,{value:"Module"}));export{s as _,r as l,n as p};
