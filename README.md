@@ -2,6 +2,19 @@
 
 This repo is dedicated to test i18n in sveltekit 1.0.
 
+### About
+
+This project is a demo for deploying a multilanguage page using the static adapter.
+
+The user can change the selected language with the options available in the `translation.js`.
+
+The change is not persistent.
+
+### Next step
+
+- attempt to use routes to define language.
+- try to make the selector persist, using local storage.
+
 ## create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
