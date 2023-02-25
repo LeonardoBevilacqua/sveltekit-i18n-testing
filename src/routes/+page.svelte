@@ -5,7 +5,7 @@
 
   const languageOnChange = async () => {
     locale.set(selectedLanguage);
-    document.documentElement.setAttribute("lang", initLocale);
+    document.documentElement.setAttribute("lang", selectedLanguage);
   };
 </script>
 
