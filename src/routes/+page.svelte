@@ -19,8 +19,8 @@
   bind:value={selectedLanguage}
   on:change={languageOnChange}
 >
-  {#each locales.get() as avaliableLocale, index}
-    <option value={avaliableLocale} selected={avaliableLocale === locale.get()}>{avaliableLocale}</option>
+  {#each locales.get() as availableLocale, index}
+    <option value={availableLocale} selected={availableLocale === locale.get()}>{availableLocale}</option>
   {/each}
 </select>
 
